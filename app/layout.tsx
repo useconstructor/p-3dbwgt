@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import "./reference.css";
 
 export const metadata: Metadata = {
-  title: "Clínica Aurea | Odontología Estética",
+  title: "Project 1788484010061 | Odontología Estética",
   description: "Odontología estética avanzada y diseño de sonrisa en Madrid.",
 };
 
